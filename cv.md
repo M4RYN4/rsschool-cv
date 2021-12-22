@@ -3,7 +3,6 @@
 ### GiHub: M4RYN4 
 ### DISCORD NICKNAME: Maryna (@M4RYN4)
 
-### Photo will be here
 
 I was always interested in IT field despite the fact that I have education and experience in accounting. In order to understand if the field is suitable for me, I started taking online courses in my spare time, learning by myself.  Thus, I started with web testing courses, including web accessibility. Over the time, I understood that I prefer to create online applications and decided to focus on web development. My self-education helps me to understand and use the following web technologies: JavaScript, jQuery, HTML and CSS. Moreover, based on the listed languages/scripts I was able to create my first project – Gift Form (the link is provided below in PROJECT section).
 
