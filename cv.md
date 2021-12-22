@@ -12,7 +12,7 @@ As previously mentioned, I have a financial background and bachelor’s degree i
 ### TECHNICAL SKILLS
 * Languages/Scripts: JavaScript; jQuery; Bootstrap; HTML/HTML5, CSS/CSS3 
 * Relational Database knowledge: SQL Server, MySQL, MS SQL, Oracle
-* Web Accessibility Compliance: WCAG 2.1 AA/AAA testing tools: NVDA, JAWS, Colour Contrast Analyzer, WAVE tool
+* Web Accessibility Compliance: WCAG 2.1 A/AA/AAA testing tools: NVDA, JAWS, Colour Contrast Analyzer, WAVE tool
 * Development tools: Visual Studio Code, Eclipse
 * Collaboration Tools: Git, GitHub
 
