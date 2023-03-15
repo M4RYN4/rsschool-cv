@@ -49,6 +49,7 @@ Minsk State Trade College, Minsk, Belarus
 Courses, College and Work   
 
 * Russian (native)
+* 
 
 * Belarusian
 
